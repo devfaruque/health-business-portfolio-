@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+20:38:04	113/113	---MCZ	200	added ('OK')	text/plain	date:Mon,%2008%20Sep%202025%2014:38:01%20GMT	https://bytesed.com/robots.txt		(from )
+20:38:06	133160/133160	---MCZ	200	added ('OK')	text/html	date:Mon,%2008%20Sep%202025%2014:38:01%20GMT	https://bytesed.com/	D:/My%20Web%20Sites/health/bytesed.com/index.html	(from )
